@@ -1,5 +1,5 @@
 web:
-  image: nginx
+  build: .
   volumes:
    - ./templates:/etc/nginx/templates
    - ./public-html:/public-html
