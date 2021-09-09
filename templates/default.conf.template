@@ -22,6 +22,10 @@ server {
         root   /public-html;
     }
 
+    location /images/ {
+      root /public-html/data;
+    }
+
     # proxy the PHP scripts to Apache listening on 127.0.0.1:80
     #
     #location ~ \.php$ {
