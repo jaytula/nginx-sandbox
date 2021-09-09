@@ -2,6 +2,7 @@
 
 - Beginner's Guide https://nginx.org/en/docs/beginners_guide.html
 - Nginx at Docker Hub https://hub.docker.com/_/nginx/
+- Core Module: https://nginx.org/en/docs/http/ngx_http_core_module.html
 
 ## Notes
 
